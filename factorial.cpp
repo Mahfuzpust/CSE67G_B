@@ -18,6 +18,19 @@ unsigned long long factorial_iterative(int n) {
     cout << result << end;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 int main() {
     int num = 5;
     std::cout << "Factorial of " << num << " is " << factorial_iterative(num) << std::endl;
