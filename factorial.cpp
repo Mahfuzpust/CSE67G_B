@@ -6,28 +6,15 @@ unsigned long long factorial_iterative(int n) {
         std::cerr << "Error: Factorial of a negative number doesn't exist." << std::endl;
         return 0; // Or handle error appropriately
     }
-    unsigned long long result = 1;
-    for (int i = 1; i <= n; ++i) {
-        result *= i;
-    }
+
     
 
-
+Cout << result ;
+cin >> a >>b;
 
 
     cout << result << end;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
